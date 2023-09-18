@@ -5,3 +5,7 @@ Completely free (works without OpenAI) LocalGPT desktop assistant that can perfo
 ![Texte alternatif](/llama.jpg)
 
 ![Texte alternatif](/hugging.png)
+
+# User Guide
+
+The HuggingChat.py code allows you to make as many free HuggingChat-powered LLama2-70b-hf parallelized api calls you want !
