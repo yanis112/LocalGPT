@@ -3,3 +3,5 @@ Completely free (works without OpenAI) LocalGPT desktop assistant that can perfo
 ![Texte alternatif](/chroma.webp)
 
 ![Texte alternatif](/llama.jpg)
+
+![Texte alternatif](/hugging.png)
