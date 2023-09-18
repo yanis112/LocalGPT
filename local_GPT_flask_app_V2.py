@@ -23,7 +23,7 @@ import hashlib
 
 
 app = Flask(__name__)
-UPLOAD_FOLDER = 'C:/Users/Yanis/Documents/KSI'
+UPLOAD_FOLDER = ""** PUT YOUR FOLDER PATH HERE **""
 
 
 app.config['JSON_AS_ASCII'] = False
