@@ -216,9 +216,9 @@ def get_text_after_newline(text):
 
 
 def get_emails():
-    imap_server = 'imaps.centrale-marseille.fr'
-    email_address = 'yanis.labeyrie@centrale-marseille.fr'
-    password='Yanis.Labeyrie@06'
+    imap_server = 'YOUR IMAP ADRESS'
+    email_address = 'YOUR EMAIL ADRESS'
+    password='YOUR PASSWORD'
 
     # Connexion IMAP
     imap = imaplib.IMAP4_SSL(imap_server)
